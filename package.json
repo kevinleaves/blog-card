@@ -1,0 +1,28 @@
+{
+  "name": "blog-card",
+  "version": "1.0.0",
+  "description": "gfe project starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinleaves/blog-card.git"
+  },
+  "author": "kevin le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinleaves/blog-card/issues"
+  },
+  "homepage": "https://github.com/kevinleaves/blog-card#readme",
+  "devDependencies": {
+    "vite": "^5.4.18"
+  },
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "tailwindcss": "^4.1.4"
+  }
+}
